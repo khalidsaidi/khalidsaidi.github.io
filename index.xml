@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Browsing my brain for clues</title>
-    <link>https://themes.gohugo.io/theme/gohugo-theme-ananke/</link>
+    <link>https://khalidsaidi.github.io/</link>
     <description>Recent content on Browsing my brain for clues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 May 2019 23:45:17 -0400</lastBuildDate>
     
-	<atom:link href="https://themes.gohugo.io/theme/gohugo-theme-ananke/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://khalidsaidi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Portfolio</title>
-      <link>https://themes.gohugo.io/theme/gohugo-theme-ananke/post/portfolio/</link>
+      <link>https://khalidsaidi.github.io/post/portfolio/</link>
       <pubDate>Tue, 28 May 2019 23:45:17 -0400</pubDate>
       
-      <guid>https://themes.gohugo.io/theme/gohugo-theme-ananke/post/portfolio/</guid>
+      <guid>https://khalidsaidi.github.io/post/portfolio/</guid>
       <description>Hello, this is Khalid. Welcome to my blog Test1</description>
     </item>
     
