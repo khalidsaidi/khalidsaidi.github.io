@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Browsing my brain for clues</title>
-    <link>https://example.com/post/</link>
+    <link>https://themes.gohugo.io/theme/gohugo-theme-ananke/post/</link>
     <description>Recent content in Posts on Browsing my brain for clues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 May 2019 23:45:17 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://themes.gohugo.io/theme/gohugo-theme-ananke/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Portfolio</title>
-      <link>https://example.com/post/portfolio/</link>
+      <link>https://themes.gohugo.io/theme/gohugo-theme-ananke/post/portfolio/</link>
       <pubDate>Tue, 28 May 2019 23:45:17 -0400</pubDate>
       
-      <guid>https://example.com/post/portfolio/</guid>
+      <guid>https://themes.gohugo.io/theme/gohugo-theme-ananke/post/portfolio/</guid>
       <description>Hello, this is Khalid. Welcome to my blog Test1</description>
     </item>
     
