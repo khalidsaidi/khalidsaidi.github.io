@@ -3,9 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://khalidsaidi.github.io/post/ionic_1/</loc>
+    <lastmod>2020-04-25T14:43:31-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://khalidsaidi.github.io/</loc>
-    <lastmod>2019-05-28T23:45:17-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-04-25T14:43:31-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://khalidsaidi.github.io/post/git_1/</loc>
+    <lastmod>2020-04-15T14:32:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://khalidsaidi.github.io/post/find_in_files/</loc>
+    <lastmod>2020-04-10T11:19:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://khalidsaidi.github.io/post/mac_ntfs/</loc>
+    <lastmod>2020-04-05T00:43:31-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -17,13 +46,26 @@
   
   <url>
     <loc>https://khalidsaidi.github.io/post/</loc>
-    <lastmod>2019-05-28T23:45:17-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://khalidsaidi.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://khalidsaidi.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://khalidsaidi.github.io/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>

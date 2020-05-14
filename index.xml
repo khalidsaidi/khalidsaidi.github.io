@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Browsing my brain for clues</title>
+    <title>Khalid Saidi on Trying Hugo</title>
     <link>https://khalidsaidi.github.io/</link>
-    <description>Recent content on Browsing my brain for clues</description>
+    <description>Recent content in Khalid Saidi on Trying Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 23:45:17 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 14:43:31 -0400</lastBuildDate>
     
 	<atom:link href="https://khalidsaidi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ionic and native plugins</title>
+      <link>https://khalidsaidi.github.io/post/ionic_1/</link>
+      <pubDate>Sat, 25 Apr 2020 14:43:31 -0400</pubDate>
+      
+      <guid>https://khalidsaidi.github.io/post/ionic_1/</guid>
+      <description>To be able to use a native plugin Make sure it&amp;rsquo;s inside:
+this.platform.ready().then(() =&amp;gt; { // Use your plugin here, ex: this.uniqueDeviceID.get() .then((uuid: any) =&amp;gt; { console.log(uuid); }); }
+If you don&amp;rsquo;t, you might get unexpected behavior. In my case, it was working on androind but not on ios
+Hope it helps
+Khalid</description>
+    </item>
+    
+    <item>
+      <title>Git, how to clone into an existing directory</title>
+      <link>https://khalidsaidi.github.io/post/git_1/</link>
+      <pubDate>Wed, 15 Apr 2020 14:32:32 -0400</pubDate>
+      
+      <guid>https://khalidsaidi.github.io/post/git_1/</guid>
+      <description>to clone into an existing directory:
+git clone https://myrepo.com/git.git temp mv temp/.git code/.git rm -rf temp
+Hope it helps
+Khalid</description>
+    </item>
+    
+    <item>
+      <title>How to find a string in a list of compressed files recursively</title>
+      <link>https://khalidsaidi.github.io/post/find_in_files/</link>
+      <pubDate>Fri, 10 Apr 2020 11:19:32 -0400</pubDate>
+      
+      <guid>https://khalidsaidi.github.io/post/find_in_files/</guid>
+      <description>I&amp;rsquo;ve always needed to find string in a a list of Java ears and wars. I&amp;rsquo;ve been extracing them and using grep and find I finally found the best tool to achieve the task and it&amp;rsquo;s called crgrep. It can be downloaded here: https://sourceforge.net/p/crgrep/wiki/Home/
+Hope it helps
+Khalid</description>
+    </item>
+    
+    <item>
+      <title>Mac and Seagate External Hard Drive</title>
+      <link>https://khalidsaidi.github.io/post/mac_ntfs/</link>
+      <pubDate>Sun, 05 Apr 2020 00:43:31 -0400</pubDate>
+      
+      <guid>https://khalidsaidi.github.io/post/mac_ntfs/</guid>
+      <description>I have an external hard drive where I store the pictures and videos I take with my phone. I use a Mac and I wasn&amp;rsquo;t able to access my external hard drive since it&amp;rsquo;s NTFS. I found few paid applications that allow mounting NTFS on a Mac. I tried one and it works pretty well, but since I&amp;rsquo;m not using the external hard drive extensively I was reticent investing in a product that I was only gonna use to transfer medias from my phone.</description>
+    </item>
     
     <item>
       <title>Portfolio</title>
@@ -17,7 +62,17 @@
       <pubDate>Tue, 28 May 2019 23:45:17 -0400</pubDate>
       
       <guid>https://khalidsaidi.github.io/post/portfolio/</guid>
-      <description>Hello, this is Khalid. Welcome to my blog Test1</description>
+      <description>Hello, this is Khalid. Welcome to my blog I spend most of time experimenting with different technologies in software web development. When I have an issue, like most people, I search on the web, and sometimes I just don&amp;rsquo;t find what I need exactly. So I keep looking and working until I make my own solution. I thought why not share my findings hoping someone might find them useful</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://khalidsaidi.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khalidsaidi.github.io/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>
